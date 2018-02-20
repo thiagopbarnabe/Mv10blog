@@ -1,0 +1,12 @@
+C:\Users\thiago.barnabe\Documents\Source\Drafts\Mv10blog\IdentityServer\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\thiago.barnabe\Documents\Source\Drafts\Mv10blog\IdentityServer\bin\Debug\netcoreapp2.0\IdentityServer.deps.json
+C:\Users\thiago.barnabe\Documents\Source\Drafts\Mv10blog\IdentityServer\bin\Debug\netcoreapp2.0\IdentityServer.runtimeconfig.json
+C:\Users\thiago.barnabe\Documents\Source\Drafts\Mv10blog\IdentityServer\bin\Debug\netcoreapp2.0\IdentityServer.runtimeconfig.dev.json
+C:\Users\thiago.barnabe\Documents\Source\Drafts\Mv10blog\IdentityServer\bin\Debug\netcoreapp2.0\IdentityServer.dll
+C:\Users\thiago.barnabe\Documents\Source\Drafts\Mv10blog\IdentityServer\bin\Debug\netcoreapp2.0\IdentityServer.pdb
+C:\Users\thiago.barnabe\Documents\Source\Drafts\Mv10blog\IdentityServer\obj\Debug\netcoreapp2.0\IdentityServer.csprojResolveAssemblyReference.cache
+C:\Users\thiago.barnabe\Documents\Source\Drafts\Mv10blog\IdentityServer\obj\Debug\netcoreapp2.0\IdentityServer.csproj.CoreCompileInputs.cache
+C:\Users\thiago.barnabe\Documents\Source\Drafts\Mv10blog\IdentityServer\obj\Debug\netcoreapp2.0\IdentityServer.AssemblyInfoInputs.cache
+C:\Users\thiago.barnabe\Documents\Source\Drafts\Mv10blog\IdentityServer\obj\Debug\netcoreapp2.0\IdentityServer.AssemblyInfo.cs
+C:\Users\thiago.barnabe\Documents\Source\Drafts\Mv10blog\IdentityServer\obj\Debug\netcoreapp2.0\IdentityServer.dll
+C:\Users\thiago.barnabe\Documents\Source\Drafts\Mv10blog\IdentityServer\obj\Debug\netcoreapp2.0\IdentityServer.pdb

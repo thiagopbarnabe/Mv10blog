@@ -1,0 +1,10 @@
+﻿@page
+@inject Microsoft.Extensions.Configuration.IConfiguration Config
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+@Config["ASPNETCORE_ENVIRONMENT"]
+@Config["JAVA_HOME"]
+@Config["JAVA_HOMEx"]
+
